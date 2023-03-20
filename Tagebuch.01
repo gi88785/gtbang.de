@@ -10,6 +10,10 @@ I ran npm install http --save.
 then i created a server.js.
 I ran "node server.js" in powershell everything worked, the message was diplayed.
 
+
+------
+
+
 I created a database for my web page in infinity free
 Now i created a new server.js to upload in the file manager of my infinity free account.
 I think my database is also connecteded to the web page. i included the codes for this in my server.js file.
@@ -44,3 +48,14 @@ The first(index) page will be having informations about me.
 
 https://eu.site.pro/v4.1/3fShh/
 
+ns1.byet.org
+ns2.byet.org
+ns3.byet.org
+ns4.byet.org
+ns5.byet.org
+
+--- 
+
+I just changed the hosting provider i a,m supposed to use. Since i was having problems while using Infinity Free. 
+
+Seems as if there was a setting in go daddy to enable or disable the ,modification of DNS settings.

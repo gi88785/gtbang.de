@@ -1,4 +1,4 @@
-I want to build a dynamic personal Webpage.
+I want to build a dynamic Webpage.
 i have bought a domain on Godaddy.
 i have added it somehow to infinityfree.
 i have built a simple index.html to display that my webpage is currently being built.
@@ -7,55 +7,32 @@ i have verified everything has been installed.
 I created a projekt folder name "Project_folder" where i placed my index.html.
 I moved to "Project_folder" on powershell an ran "npm init -y".  
 I ran npm install http --save.
-then i created a server.js.
+I then created 'server.js'.
 I ran "node server.js" in powershell everything worked, the message was diplayed.
 
-
 ------
-
 
 I created a database for my web page in infinity free
 Now i created a new server.js to upload in the file manager of my infinity free account.
 I think my database is also connecteded to the web page. i included the codes for this in my server.js file.
-i entered the url for my page online and it worked.
-I added a free SSl certificate from zerossl.
-I downloaded the certificate, i extracted it and added it to my folder. then i modified both server.js and pointed the key and cert variables to my certificates.
-i then uploaded it to infinity and my website funnily works with a https now.
+I entered the url for my page online and it worked.
+I inquired a free SSl certificate from zerossl.
+I downloaded the certificate, extracted it and added it to my folder. 
+I modified both server.js and pointed the key and cert variables to my certificates.
+I then uploaded it to infinity and my website funnily works with a https now.
 
 I will use React and express
-I have installed locally using "npm install -g create-react-app"
+I have installed React locally using "npm install -g create-react-app"
 I ran "npm install tar@latest" to update the tar dependency since it is outdated and had vulnerabilities
 I created a new React project in a folder named "myapp" using the command "create-react-app myapp"
 I moved the contents of the "myapp" folder in "Project_folder"
 Using "npm install express react react-dom react-router-dom" i installed the required dependencies for React and Express
-
+...
 -------
-Create a new file named "app.js" and add your Express server code there. Make sure to add a route that serves the React app, such as:
-csharp
-Copy code
-app.use(express.static(path.join(__dirname, 'build')));
-app.get('*', (req, res) => {
-  res.sendFile(path.join(__dirname, 'build', 'index.html'));
-});
-Start your server by running the command node app.js.
-In your React app, you can start making changes and adding your personal information on the "index.js" and "App.js" files. You can also create new components and pages as needed.
-Once you are done making changes, build your React app by running the command npm run build. This will create a production-ready build of your React app in a "build" folder.
-Upload the contents of the "build" folder to your server, and your React app should be live!
-Keep in mind that this is a general overview, and there may be additional steps or configurations required depending on your specific project requirements. Also, it's a good idea to follow best practices for structuring your project, such as separating your server-side code and client-side code into separate folders.
-
 
 The first(index) page will be having informations about me.
-
-https://eu.site.pro/v4.1/3fShh/
-
-ns1.byet.org
-ns2.byet.org
-ns3.byet.org
-ns4.byet.org
-ns5.byet.org
+...
 
 --- 
 
-I just changed the hosting provider i a,m supposed to use. Since i was having problems while using Infinity Free. 
-
-Seems as if there was a setting in go daddy to enable or disable the ,modification of DNS settings.
+I just changed the hosting provider Since i was having problems while using Infinity Free or perhaps there is a bug in godaddy since i can't modify the DNS settings of my Domain.!

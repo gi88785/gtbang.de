@@ -1,0 +1,21 @@
+Implementaion details:
+
+-- Github repo link: https://github.com/gi88785/my_blog
+
+1. I have only used HTML and CSS for this Project
+2. I have used Bootstrap5 as CSS library.
+
+Problems & Justifications :
+
+1. It is quite easy to use HTML and Css and I did not see the need to use js, since I ain't doing anything wild.
+2. I did not use jquery beacause it is obsolate and i was only getting issues in my git repo beacuse of it.
+3. For the icons I have downloaded them from the internet here and there.
+4. I still have a lot of difficulties to have the page show exactly the way i want; i would for example like :
+- to have one big background image
+- fix all the color issues
+- make scroller on the footer scroll infinitely
+- usw.
+
+Project sources help:
+
+- https://www.html.am/html-codes/marquees/slide-in-text.cfm

@@ -1,0 +1,37 @@
+body{
+	font-family:Arial;
+	font-size:20px;
+	color:#000000;
+	text-align:center;
+}
+h1{font-size:50px;margin:20px;color:#000000;);font-family:Arial;}
+hr{color:rgb(0,0,0);}
+
+a:link    {text-decoration:none;}
+a:visited {text-decoration:none;}
+a:hover   {text-decoration:underline;color:#000000;}
+a	  {color:#000000;}
+
+body   { 
+	background-color:#819FF7; 
+	  overflow: hidden;
+
+}
+
+div.box2{
+  height: 100%;
+  width: 1550px;
+  background-color:#FFFFFF;
+  margin: 0 auto;
+  border-radius:15px
+}
+
+
+input.eingabefeld{
+width:150px;"
+}
+
+
+
+
+
